@@ -184,7 +184,7 @@
       "name": "Exception",
       "scope": "support.type.exception",
       "settings": {
-        "foreground": "#f7ea8a"
+        "foreground": "#f758ff"
       }
     },
     {
@@ -659,7 +659,7 @@
     "editorOverviewRuler.infoForeground": "#9aedfe80",
     "editorError.foreground": "#ff716c",
     "editorError.border": null,
-    "editorWarning.foreground": "#f7ea8a",
+    "editorWarning.foreground": "#9aedfe",
     "editorWarning.border": null,
     "editorGutter.background": null,
     "editorGutter.modifiedBackground": "#9aedfe80",
