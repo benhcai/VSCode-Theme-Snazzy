@@ -20,7 +20,7 @@
     "snazzy operator dull",
     "snazzy operator muted"
   ],
-  "icon": "./imgs/logo.jpg",
+  "icon": "imgs/logo.png",
   "engines": {
     "vscode": "^1.58.0"
   },
