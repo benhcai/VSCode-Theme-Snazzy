@@ -669,7 +669,7 @@
     "gitDecoration.deletedResourceForeground": "#ff716c",
     "gitDecoration.untrackedResourceForeground": "#5af78e",
     "gitDecoration.ignoredResourceForeground": "#616263",
-    "gitDecoration.conflictingResourceForeground": "#f758ff",
+    "gitDecoration.conflictingResourceForeground": "#f7ea8a",
     "diffEditor.insertedTextBackground": "#5af78e20",
     "diffEditor.insertedTextBorder": null,
     "diffEditor.removedTextBackground": "#ff716c50",
