@@ -14,7 +14,8 @@ This is a clone of Snazzy Plus with itallics, but, the colors have been softened
 
 ![Screenshot of TESTS](https://raw.githubusercontent.com/code0312/VSCode-Theme-Snazzy/main/imgs/Screenshot_Tests.png)
 
-Credit:
-Snazzy Operator (Aaron Thomas)
-Snazzy Plus (akarlsten)
-hyper-snazzy
+### Credits:
+
+- Snazzy Operator (Aaron Thomas)
+- Snazzy Plus (akarlsten)
+- hyper-snazzy
